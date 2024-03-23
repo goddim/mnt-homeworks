@@ -1,0 +1,12 @@
+Host clickhouse
+    HostName 178.154.221.64
+    User centos
+    IdentityFile ~/dim1
+Host vector
+    HostName 158.160.106.50
+    User centos
+    IdentityFile ~/dim1
+Host lighthouse
+    HostName 178.154.207.207
+    User centos
+    IdentityFile ~/dim1
