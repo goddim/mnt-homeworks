@@ -6,3 +6,4 @@ java_home: "/opt/jdk/{{ jdk_folder }}"
 sonarqube_db_name: sonar
 sonarqube_db_user: sonar
 sonarqube_db_password: sonar
+postgresql_version: 14
