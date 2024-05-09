@@ -17,7 +17,7 @@
 1. Сделать Freestyle Job, который будет запускать `molecule test` из любого вашего репозитория с ролью.
 ![image](https://github.com/goddim/HW_netology_main/assets/132663924/50c81e3f-d228-42ee-ad5d-d0aaa05aa21b)
 ![image](https://github.com/goddim/HW_netology_main/assets/132663924/3cc86a5f-8472-4435-8e64-0e9a05b02b2c)
-![image](https://github.com/goddim/HW_netology_main/assets/132663924/65027c03-4f48-46c7-84fa-cc4f5d1ed3fd)
+
 
 
 2. Сделать Declarative Pipeline Job, который будет запускать `molecule test` из любого вашего репозитория с ролью.
