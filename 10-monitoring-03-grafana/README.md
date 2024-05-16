@@ -54,8 +54,11 @@
 ![image](https://github.com/goddim/HW_netology_main/assets/132663924/b136c27a-7f12-4f07-8cd7-2e0c29863147)
 
 - количество свободной оперативной памяти;
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/64fd5b96-dc22-429a-88b0-8819dcd6390a)
 
-- количество места на файловой системе  
+- количество места на файловой системе
+  ![image](https://github.com/goddim/HW_netology_main/assets/132663924/ff5dc40d-d03c-4cd3-a6e2-de192a3c06e8)
+
 ## Задание 3
 
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
