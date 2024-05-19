@@ -43,8 +43,11 @@ Filebeat следует сконфигурировать для отправки
 - скриншот интерфейса kibana;
 - docker-compose манифест (если вы не использовали директорию help);
 - ваши yml-конфигурации для стека (если вы не использовали директорию help).
+  ### ОТВЕТ
+  ![image](https://github.com/goddim/HW_netology_main/assets/132663924/7e4e7dab-942b-421e-a5bc-ac99e802c612)
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/dfcf1e09-2b3d-4f8f-9274-bb90c0eea008)
 
-## Задание 2
+  ## Задание 2
 
 Перейдите в меню [создания index-patterns  в kibana](http://localhost:5601/app/management/kibana/indexPatterns/create) и создайте несколько index-patterns из имеющихся.
 
