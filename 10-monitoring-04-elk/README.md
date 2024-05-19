@@ -50,12 +50,17 @@ Filebeat следует сконфигурировать для отправки
   ## Задание 2
 
 Перейдите в меню [создания index-patterns  в kibana](http://localhost:5601/app/management/kibana/indexPatterns/create) и создайте несколько index-patterns из имеющихся.
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/e14566b8-d821-41a3-b7e8-4bb97c86908c)
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/096f5727-b854-4873-ae30-568ba142399d)
 
 Перейдите в меню просмотра логов в kibana (Discover) и самостоятельно изучите, как отображаются логи и как производить поиск по логам.
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/cd857b9f-2158-465d-b15f-68882c988f6a)
 
 В манифесте директории help также приведенно dummy-приложение, которое генерирует рандомные события в stdout-контейнера.
 Эти логи должны порождать индекс logstash-* в elasticsearch. Если этого индекса нет — воспользуйтесь советами и источниками из раздела «Дополнительные ссылки» этого задания.
- 
+Здесь видно как приложение генерирует сообщения
+ ![image](https://github.com/goddim/HW_netology_main/assets/132663924/61bdeb9c-5906-4d63-b0a6-f92a70dd603e)
+
 ---
 
 ### Как оформить решение задания
